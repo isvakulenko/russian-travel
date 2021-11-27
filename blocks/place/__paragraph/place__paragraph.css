@@ -1,0 +1,9 @@
+.place__paragraph {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 20px;
+  }
+
+  .place__paragraph:last-child {
+    margin-bottom: 0;
+  }

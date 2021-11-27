@@ -1,0 +1,11 @@
+.lead__image_caption {
+  min-width: 158px;
+  min-height: 14px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}

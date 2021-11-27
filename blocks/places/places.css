@@ -1,0 +1,26 @@
+.places {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 76.875%;
+  width: 100%;
+}
+
+
+@media screen and (max-width: 1120px) {
+  .places {
+    max-width: 90.625%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .places {
+    max-width: 93.75%;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .places {
+    grid-template-columns: 1fr;
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,22 @@
+.page__box {
+  margin: 0 auto;
+  padding: 28px 0 24px 0;
+  background-color: #2A2C2F;
+  font-family: 'Inter', 'Arial', sans-serif;
+  min-width: 320px;
+  max-width: 1280px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+* {
+  outline: 1px solid red;
+}
+
+@media screen and (max-width: 540px) {
+  .page__box {
+    padding: 16px 0 24px 0;
+
+  }
+}

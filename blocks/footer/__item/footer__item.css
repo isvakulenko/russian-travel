@@ -1,0 +1,25 @@
+.footer__item {
+    margin: 0;
+  padding: 0;
+  margin-right: 18px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  color: #FFFFFF;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.footer__item:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 720px) {
+  .footer__item {
+    display: block;
+    margin-bottom: 32px;
+    font-size: 24px;
+    line-height: 24px;
+  }
+ }
