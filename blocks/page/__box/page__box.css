@@ -10,9 +10,9 @@
   flex-direction: column;
 }
 
-* {
+/* * {
   outline: 1px solid red;
-}
+} */
 
 @media screen and (max-width: 540px) {
   .page__box {

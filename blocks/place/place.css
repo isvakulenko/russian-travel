@@ -9,6 +9,10 @@
   gap: 48px 40px;
 }
 
+.place:last-child {
+  margin: 0 auto;
+}
+
 @media screen and (max-width: 1120px) {
   .place {
     grid-template-columns: 440px 1fr;
