@@ -11,7 +11,7 @@
 
 **Github Page**
 
-* [Ссылка на проект на Github Pages](https://isvakulenko.github.io/russian-travel/)
+* [Ссылка на проект на Github Pages](https://isvakulenko.github.io/russian-travel/index.html)
 
 **Figma**
 
