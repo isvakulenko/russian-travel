@@ -1,5 +1,5 @@
 .cover__link {
-  /* margin: 0 auto; */
+  margin: 0 auto;
   min-height: 740px;
   display: flex;
   flex-direction: column;
