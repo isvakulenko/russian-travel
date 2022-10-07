@@ -1,4 +1,4 @@
-<h1 align="center"><a  href="https://isvakulenko.github.io/russian-travel/index.html" target="_blank"><img src="https://github.com/isvakulenko/russian-travel/tree/main/images/russian-travel.PNG" width="100%" alt="Логотип russian-travel"></a></h1>
+<h1 align="center"><a  href="https://isvakulenko.github.io/russian-travel/index.html" target="_blank"><img src="https://github.com/isvakulenkoisvakulenko/russian-travel/blob/main/images/russian-travel.PNG" width="100%" alt="Логотип russian-travel"></a></h1>
 
 # <a id="top" />Яндекс.Практикум, курс "Веб разработчик плюс".
 ## Проектная работа 2 месяц (проектная работа №3).
